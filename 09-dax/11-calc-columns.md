@@ -10,13 +10,14 @@ Let's continue with the report we built on a CSV file.
 
 Alternatively if you didn't complete the previous assignment correctly:
 
-**Open** [08-Start](../06-data-modeling-101/06-02-solution.pbix)
+**Open** [06-02-Solution](../06-data-modeling-101/06-02-Solution.pbix)
 
 ## Calculations
 
 When defining _calculated columns_ you can use a whole arsenal of DAX functions. From very advanced (which actually run a new query for every row in the table) to basic functions such as addition and subtraction.
 
 Below are a few commands - see how far you can solve them with a _calculated column_:
+
 
 * In the table "Sales" we want a new column with subtotal including taxes
 * In the table "Product" we want a new column with an indicator if a product is red in color
