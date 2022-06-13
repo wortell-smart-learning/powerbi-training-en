@@ -1,4 +1,4 @@
-# powerbi-training
+# Power BI Trainig
 
 Welcome to [Wortell Smart Learning](https://www.wortell.nl/nl/smart-learning)'s training "Power BI: Reports and Dashboards"!
 
