@@ -25,7 +25,7 @@ In the next window you will be asked how you want to connect to this database.
 3. Choose a **Database** login and fill in the following login details:
    * User: PowerBIUser
    * Password: PowerBI2
-   ![Connection credentials](img/sqlserver-connect-credentials.png)
+   ![Connection credentials](img/databasecredentials.png)
 
 The "Navigator" window opens. You will now first see a list of _views_, below that the _tables_ and finally _table-valued functions_. Note that there are different icons for this!
 
